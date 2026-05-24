@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://saizan-shaikh.github.io/sitemap.xml
